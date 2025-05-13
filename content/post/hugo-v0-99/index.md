@@ -2,7 +2,7 @@
 title: "Hugo v0.99.1"
 description: ""
 date: 2022-05-18
-draft: false
+draft: true
 images: ["hugo-logo.png"]
 categories: ["Hugo Release Notes"]
 tags: ["Hugo"]
