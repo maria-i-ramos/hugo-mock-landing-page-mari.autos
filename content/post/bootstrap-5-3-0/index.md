@@ -1,18 +1,26 @@
 ---
-title: "Bootstrap 5.3.0"
-description: "It’s official, the final stable release of v5.3.0 has landed!"
-date: 2023-05-30
+title: "Unlocking the Penn Puzzle"
+description: "Finding the right courses at Penn can feel like solving a puzzle"
+date: 2025-05-13
 draft: false
 images: ["bootstrap-5-3.png"]
-categories: ["The Bootstrap Blog"]
+categories: ["PCR Blog"]
 tags: ["Bootstrap"]
-keywords: ["bootstrap 5 3","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+keywords: ["penn course","penn course review","pcr"]
+authors: ["Maria Ramos"]
 ---
 
 ![Bootstrap 5 3](bootstrap-5-3.png)
 { .img-fluid }
 
-> It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!
+> Finding the right courses at Penn can feel like solving a puzzle—especially when weighing quality, difficulty, and instructor fit. While Penn Course Review offers invaluable data, it’s not always easy to compare options in context.
 
-On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s [new in v5.3.0](https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/).
+That’s where our Chrome extension comes in.
+
+This tool allows students to **select two courses directly from Path@Penn**, then instantly receive **side-by-side comparisons** based on **Penn Course Review ratings**. We designed it to ask students what matters most—whether it's a great instructor, manageable workload, or high course quality—and tailor recommendations accordingly.
+
+Our goal was to **eliminate decision fatigue** and **empower students with personalized, data-informed insights**. Behind the scenes, the extension leverages a blend of local storage, user prompts, and intelligent data parsing to improve the course selection journey.
+
+This is just the beginning. Future iterations will introduce historical grade data and peer reviews—because picking your classes shouldn’t be harder than taking them.
+
+> Built for students, by students—because we deserve better tools.
