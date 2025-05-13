@@ -3,15 +3,11 @@ title: "Unlocking the Penn Puzzle"
 description: "Finding the right courses at Penn can feel like solving a puzzle"
 date: 2025-05-13
 draft: false
-images: ["bootstrap-5-3.png"]
 categories: ["PCR Blog"]
 tags: ["Bootstrap"]
 keywords: ["penn course","penn course review","pcr"]
 authors: ["Maria Ramos"]
 ---
-
-![Bootstrap 5 3](bootstrap-5-3.png)
-{ .img-fluid }
 
 > Finding the right courses at Penn can feel like solving a puzzle—especially when weighing quality, difficulty, and instructor fit. While Penn Course Review offers invaluable data, it’s not always easy to compare options in context.
 
