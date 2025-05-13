@@ -2,7 +2,7 @@
 title: "Hugo Bootstrap Theme alpha"
 description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
 date: 2022-05-22T13:35:02+01:00
-draft: false
+draft: true
 images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
 tags: ["Hugo","Bootstrap","Featured"]
